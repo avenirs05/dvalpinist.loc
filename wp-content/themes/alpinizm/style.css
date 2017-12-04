@@ -1,0 +1,24 @@
+/*   
+Theme Name: your-clean-template
+Theme URI: https://github.com/saxap/clean-wp-template
+Version: 1.0
+Tags: clean, development, html5
+Description: Чистый шаблон для разработки. Можете купить мне пива если хотите, PayPal: saxap@bk.ru
+Author: saxa:p
+Author URI: http://dontforget.pro
+*/
+.hide{display:none!important}
+.wpcf7-not-valid-tip,.wpcf7-validation-errors,.ajax-loader,.wpcf7-mail-sent-ok{display:none!important}
+.wpcf7-form p.forms{padding:0!important}
+.wpcf7-not-valid{border-color:red!important}
+.header ul li ul.sub-menu{
+	text-align: left;
+}
+.header ul li ul.sub-menu li{
+	text-align: left;
+}
+.header ul li ul.sub-menu li a{
+	text-align: left;
+	text-transform: none;
+	
+}
